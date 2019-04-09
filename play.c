@@ -8,5 +8,6 @@ void main()
 
 	getchar();
 
-	printf("Hey threre\n");
+	printf("Goodbye\n");
+
 }
